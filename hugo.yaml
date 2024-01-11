@@ -15,6 +15,6 @@ params:
 menu:
   main:
     - name: "Гендпани"
-      pageRef: "/tags/майстерні-гендпанів/"
+      pageRef: "/tags/handpan-workshops/"
     - name: "Пелюсткові Барабани"
-      pageRef: "/tags/майстерні-пелюсткових-барабанів/"
+      pageRef: "/tags/tongue-drum-workshops/"
