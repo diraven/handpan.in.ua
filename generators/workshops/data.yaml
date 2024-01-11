@@ -1,0 +1,237 @@
+workshops:
+  - slug: penta
+    title: Пента
+    tags:
+      - майстерні-пелюсткових-барабанів
+
+  - slug: steel-tongue-drums
+    title: Майстерня "Глюкофони"
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Нікополь, Україна
+    craftsman_name: Анатолій Іванов
+    links:
+      - https://facebook.com/groups/544255582431269/
+      - https://facebook.com/profile.php?id=100039896807761
+      - https://instagram.com/penta_tongue
+
+  - slug: vimana-takkar
+    title: Vimana Takkar
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Київ, Україна
+    craftsman_name: Горнішевський Евген
+    links:
+      - https://facebook.com/profile.php?id=100011467414116
+      - https://facebook.com/VimanaTakkar
+      - https://instagram.com/hornishevsky
+      - https://youtube.com/@vimanatakkar
+
+  - slug: extraterrastrial-workshop
+    title: Інопланетна майстерня
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Київ, Україна
+    craftsman_name: Антон Стечкін
+    links:
+      - https://facebook.com/antony.stechkin
+      - https://facebook.com/i.masterskaya.kyiv
+      - https://happy-drum.com/
+      - https://instagram.com/i.masterskaya
+      - https://youtube.com/@extraterrestrialworkshop.1689
+
+  - slug: puzz-drum
+    title: Puzz Drum
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Одеса, Україна
+    craftsman_name: Юрій Пузік
+    links:
+      - https://puzz-drums.com/
+      - https://facebook.com/profile.php?id=100069942784217
+      - https://facebook.com/PuzzDrums
+      - https://instagram.com/puzz_drums
+      - https://youtube.com/@puzzdrums2192
+
+  - slug: guru-drum
+    title: Guru Drum
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Київ, Україна
+    links:
+      - https://facebook.com/gurudrumgroup
+      - https://instagram.com/gurudrumgroup
+      - https://youtube.com/@gurudrum
+
+  - slug: zen-percussion
+    title: Zen Percussion / Guda Drum / Orbis drum
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Харків, Україна
+    craftsman_name: Максим Плахтін
+    links:
+      - https://zen-percussion.com/
+      - https://facebook.com/max.plakhtin
+      - https://guda-drum.com/
+      - https://instagram.com/orbisdrum
+      - https://facebook.com/groups/GUDAtonguepan/
+
+  - slug: shana
+    title: Шана / Guda Drum
+    weight: 1
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Харків, Україна
+    craftsman_name: Ложкін Олексій
+    links:
+      - https://facebook.com/profile.php?id=100006623864086
+      - https://facebook.com/Ukrainiandrum
+      - https://instagram.com/shana_ukrainian_tongue_drum
+      - https://youtube.com/@shana_Tongue_Drum2022
+
+  - slug: mysteria-zvuku
+    title: Містерія Звуку
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Київ, Україна
+    craftsman_name: Володимир Артушенко
+    links:
+      - https://facebook.com/Mysteria.Zvuku
+      - https://facebook.com/volodymyr.artushenko
+      - https://instagram.com/mysteria.zvuku
+      - https://mysteria-zvuku.com.ua/
+      - https://youtube.com/@mysterysound8869
+
+  - slug: magic-drum
+    title: Magic Drum
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Нікополь, Україна
+    craftsman_name: Дмитро Кузьменко
+    links:
+      - https://facebook.com/dima.kuzmenko.jimaku
+      - https://facebook.com/profile.php?id=100063177521382
+      - https://instagram.com/magicdrum_ua
+      - https://youtube.com/@user-nn3gb4mz1f
+
+  - slug: nova-drum
+    title: Nova Drum
+    weight: 2
+    tags:
+      - майстерні-пелюсткових-барабанів
+      - майстерні-гендпанів
+    location: м. Київ, Україна
+    craftsman_name: Евген Плотицин
+    links:
+      - https://instagram.com/johnny_vargonaut
+      - https://novadrum.com/
+      - https://youtube.com/@novadrum280
+
+  - slug: omana
+    title: Omana
+    weight: 1
+    description: |
+      Майстерня добре відома як в Україні, так і за кордоном.
+
+      Історично були розташовані в селі Барвінкове. Тому, один з строїв інструментів має назву Barva. Майстерня свого часу зробила багато відкриттів які посприяли розвитку не лише української а і світової гендпан-спільноти.
+
+      Брати виробляють як компактні інструменти, так і багатонотні "мутанти" та басові інструменти низьких тональностей. Основним профілем діяльності є виготовлення складних і професійних гендпанів високого рівня.
+    tags:
+      - майстерні-гендпанів
+    location: м. Київ, Україна
+    craftsman_name: Антон Рева, Роман Рева
+    links:
+      - https://facebook.com/groups/653228274781474/
+      - https://facebook.com/jestokiylu
+      - https://facebook.com/roman.reva.31
+      - https://instagram.com/omanahandpan
+      - https://omana-handpan.com/
+      - https://youtube.com/@OmanaHandpan
+
+  - slug: imago
+    title: Imago
+    description: |
+      Майстерня працює з 2013 року, спочатку була розташована в Алчевську, але після початку збройної агресії Росії була вимушена переїхати до Шостки. До 2016 року виробляли пелюсткові барабани. Зараз – повністю зосереджені на виробництві лінійки гендпанів від міні гендпанів тревел-розміру до багатонотних "мутантів".
+    tags:
+      - майстерні-гендпанів
+    location: м. Шостка, Україна
+    craftsman_name: Максим Миронюк
+    links:
+      - https://facebook.com/hang.panmi.imago
+      - https://instagram.com/hang_panmi
+      - https://youtube.com/@hang_panmi
+      - https://youtube.com/@tongadrum
+
+  - slug: atom
+    title: Atom
+    description: |
+      Інструменти в асортименті майстерні як правило повнорозмірного формату – як стандартні 8-9 нотні так і складні в низьких тональностях та з великою кількістю нот. Тревел-моделі (міні) відсутні.
+    tags:
+      - майстерні-гендпанів
+    location: АР Крим, Україна
+    craftsman_name: Евген Лученцов
+    links:
+      - https://facebook.com/AtomHandpan
+      - https://facebook.com/yevgen.luchentsov
+      - https://youtube.com/@lu4ik12028
+
+  - slug: ge-om-music-store
+    title: Ge Om Music Store / Your Pan
+    description: |
+      В асортименті майстерні є як маленькі дитячі гендпани на 35 см так і великі повноцінні моделі.
+    tags:
+      - майстерні-гендпанів
+    location: АР Крим, Україна
+    links:
+      - https://facebook.com/GenOmMusicStore
+      - https://instagram.com/yourpan_
+      - https://youtube.com/@denis2405p
+
+  - slug: gubarev-drum
+    title: Guda Drum / Gubarev Drum
+    description: |
+      Під замовлення в гендпан можна вбудувати п'єзодатчики які дозволяють підключити інструмент до системи посилення звуку.
+    tags:
+      - майстерні-гендпанів
+      - майстерні-пелюсткових-барабанів
+    location: м. Світловодськ, Україна
+    craftsman_name: Губарев Дмитро
+    links:
+      - https://facebook.com/gubarev.dmitrii
+      - https://facebook.com/guda.ua
+      - https://gubarevdrum.com/
+      - https://gudadrum.com/
+      - https://instagram.com/guda_drum_official
+      - https://youtube.com/@GUDADRUM
+
+  - slug: veles-sound-sculpture
+    title: Veles Sound Sculpture
+    description: |
+      Великий вибір металів, різні тональності, різноманітні моделі, як тревел-формату 40 см так і великі багатонотні інструменти.
+    tags:
+      - майстерні-гендпанів
+      - майстерні-пелюсткових-барабанів
+    location: м. Житомир, Україна
+    craftsman_name: Велеслав Постернак
+    links:
+      - https://facebook.com/vasilyposternak
+      - https://facebook.com/VelesSoundSculpture
+      - https://instagram.com/veles_sound_sculptures
+      - https://youtube.com/@velessoundsculpture8802
+
+  - slug: it-joy-instrument
+    title: It.Joy Instrument
+    weight: 3
+    description: |
+      Майстерня почала формуватися ще до війни в місті Харькові. Після початку російскої агресії була перенесена до Братислави Словаччина.
+
+      Майстерня виробляє гендпани в багатьох строях стандартного розміру 53 см з нержавіючої сталі "Ember", AISI 430 і азатованої сталі. Є можливість робити інші розміри інструментів під замовлення.
+
+      Хочу висловити велику подяку Mandakini Alfonso (майстерня Pandakini) та  братам Роману і Антону Рева ([майстерня Омана]({{<ref "workshops/omana">}})) в допомозі з формуванням майстерні і мене особисто як майстра.
+    tags:
+      - майстерні-пелюсткових-барабанів
+    location: м. Нікополь, Україна
+    craftsman_name: Анатолій Іванов
+    links:
+      - itjoyinst@gmail.com
+      - https://www.instagram.com/arkadiimossad?igsh=eWdyNWl6ZHN4bDN1&utm_source=qr

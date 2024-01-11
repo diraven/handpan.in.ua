@@ -1,0 +1,29 @@
+baseURL: "https://diraven.github.io/handpan/"
+title: "Ukrainian Handpan Community"
+theme: "PaperMod"
+languageCode: "uk"
+DefaultContentLanguage: "uk"
+description: "Про гендпани. Українською."
+mainSections: ["pages"]
+
+publishDir: "public"
+
+params:
+  DateFormat: "02 January 2006"
+  defaultTheme: "dark"
+
+menu:
+  main:
+    - name: "Гендпани"
+      pageRef: "/tags/майстерні-гендпанів/"
+    - name: "Пелюсткові Барабани"
+      pageRef: "/tags/майстерні-пелюсткових-барабанів/"
+# [[menu.main]]
+# name = "Головна"
+# url = "/"
+# weight = -1
+
+# [[menu.main]]
+# name = "Ліцензія"
+# url = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.uk"
+# weight = 1000
