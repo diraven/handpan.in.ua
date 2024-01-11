@@ -2,14 +2,14 @@ workshops:
   - slug: penta
     title: Пента
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     links:
       - https://www.instagram.com/penta_tongue
 
   - slug: steel-tongue-drums
     title: Майстерня "Глюкофони"
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Нікополь, Україна
     craftsman_name: Анатолій Іванов
     links:
@@ -19,7 +19,7 @@ workshops:
   - slug: vimana-takkar
     title: Vimana Takkar
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Київ, Україна
     craftsman_name: Горнішевський Евген
     links:
@@ -31,7 +31,7 @@ workshops:
   - slug: extraterrastrial-workshop
     title: Інопланетна майстерня
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Київ, Україна
     craftsman_name: Антон Стечкін
     links:
@@ -44,7 +44,7 @@ workshops:
   - slug: puzz-drum
     title: Puzz Drum
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Одеса, Україна
     craftsman_name: Юрій Пузік
     links:
@@ -57,7 +57,7 @@ workshops:
   - slug: guru-drum
     title: Guru Drum
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Київ, Україна
     links:
       - https://facebook.com/gurudrumgroup
@@ -67,7 +67,7 @@ workshops:
   - slug: zen-percussion
     title: Zen Percussion / Guda Drum / Orbis drum
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Харків, Україна
     craftsman_name: Максим Плахтін
     links:
@@ -81,7 +81,7 @@ workshops:
     title: Шана / Guda Drum
     weight: 1
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Харків, Україна
     craftsman_name: Ложкін Олексій
     links:
@@ -93,7 +93,7 @@ workshops:
   - slug: mysteria-zvuku
     title: Містерія Звуку
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Київ, Україна
     craftsman_name: Володимир Артушенко
     links:
@@ -106,7 +106,7 @@ workshops:
   - slug: magic-drum
     title: Magic Drum
     tags:
-      - майстерні-пелюсткових-барабанів
+      - tongue-drum-workshops
     location: м. Нікополь, Україна
     craftsman_name: Дмитро Кузьменко
     links:
@@ -119,8 +119,8 @@ workshops:
     title: Nova Drum
     weight: 2
     tags:
-      - майстерні-пелюсткових-барабанів
-      - майстерні-гендпанів
+      - tongue-drum-workshops
+      - handpan-workshops
     location: м. Київ, Україна
     craftsman_name: Евген Плотицин
     links:
@@ -138,7 +138,7 @@ workshops:
 
       Брати виробляють як компактні інструменти, так і багатонотні "мутанти" та басові інструменти низьких тональностей. Основним профілем діяльності є виготовлення складних і професійних гендпанів високого рівня.
     tags:
-      - майстерні-гендпанів
+      - handpan-workshops
     location: м. Київ, Україна
     craftsman_name: Антон Рева, Роман Рева
     links:
@@ -154,7 +154,7 @@ workshops:
     description: |
       Майстерня працює з 2013 року, спочатку була розташована в Алчевську, але після початку збройної агресії Росії була вимушена переїхати до Шостки. До 2016 року виробляли пелюсткові барабани. Зараз – повністю зосереджені на виробництві лінійки гендпанів від міні гендпанів тревел-розміру до багатонотних "мутантів".
     tags:
-      - майстерні-гендпанів
+      - handpan-workshops
     location: м. Шостка, Україна
     craftsman_name: Максим Миронюк
     links:
@@ -168,7 +168,7 @@ workshops:
     description: |
       Інструменти в асортименті майстерні як правило повнорозмірного формату – як стандартні 8-9 нотні так і складні в низьких тональностях та з великою кількістю нот. Тревел-моделі (міні) відсутні.
     tags:
-      - майстерні-гендпанів
+      - handpan-workshops
     location: АР Крим, Україна
     craftsman_name: Евген Лученцов
     links:
@@ -181,7 +181,7 @@ workshops:
     description: |
       В асортименті майстерні є як маленькі дитячі гендпани на 35 см так і великі повноцінні моделі.
     tags:
-      - майстерні-гендпанів
+      - handpan-workshops
     location: АР Крим, Україна
     links:
       - https://facebook.com/GenOmMusicStore
@@ -193,8 +193,8 @@ workshops:
     description: |
       Під замовлення в гендпан можна вбудувати п'єзодатчики які дозволяють підключити інструмент до системи посилення звуку.
     tags:
-      - майстерні-гендпанів
-      - майстерні-пелюсткових-барабанів
+      - handpan-workshops
+      - tongue-drum-workshops
     location: м. Світловодськ, Україна
     craftsman_name: Губарев Дмитро
     links:
@@ -210,8 +210,8 @@ workshops:
     description: |
       Великий вибір металів, різні тональності, різноманітні моделі, як тревел-формату 40 см так і великі багатонотні інструменти.
     tags:
-      - майстерні-гендпанів
-      - майстерні-пелюсткових-барабанів
+      - handpan-workshops
+      - tongue-drum-workshops
     location: м. Житомир, Україна
     craftsman_name: Велеслав Постернак
     links:
@@ -230,7 +230,7 @@ workshops:
 
       Хочу висловити велику подяку Mandakini Alfonso (майстерня Pandakini) та  братам Роману і Антону Рева ([майстерня Омана]({{<ref "workshops/omana">}})) в допомозі з формуванням майстерні і мене особисто як майстра.
     tags:
-      - майстерні-гендпанів
+      - handpan-workshops
     location: м. Нікополь, Україна
     craftsman_name: Анатолій Іванов
     links:

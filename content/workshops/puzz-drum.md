@@ -1,6 +1,6 @@
 ---
 title: Puzz Drum
-tags: ['майстерні-пелюсткових-барабанів']
+tags: ['tongue-drum-workshops']
 weight: 1000
 ---
 

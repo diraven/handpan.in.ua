@@ -1,6 +1,6 @@
 ---
 title: Шана / Guda Drum
-tags: ['майстерні-пелюсткових-барабанів']
+tags: ['tongue-drum-workshops']
 weight: 1
 ---
 

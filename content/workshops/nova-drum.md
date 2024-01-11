@@ -1,6 +1,6 @@
 ---
 title: Nova Drum
-tags: ['майстерні-пелюсткових-барабанів', 'майстерні-гендпанів']
+tags: ['tongue-drum-workshops', 'handpan-workshops']
 weight: 2
 ---
 
