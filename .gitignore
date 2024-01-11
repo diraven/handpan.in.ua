@@ -3,6 +3,8 @@
 !.gitignore
 !.vscode
 
+__pycache__
+
 # Generated files by hugo
 /public/
 /resources/_gen/
