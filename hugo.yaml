@@ -1,4 +1,4 @@
-baseURL: "https://diraven.github.io/handpan/"
+baseURL: "https://diraven.github.io/uhc/"
 title: "Ukrainian Handpan Community"
 theme: "PaperMod"
 languageCode: "uk"
@@ -18,12 +18,3 @@ menu:
       pageRef: "/tags/майстерні-гендпанів/"
     - name: "Пелюсткові Барабани"
       pageRef: "/tags/майстерні-пелюсткових-барабанів/"
-# [[menu.main]]
-# name = "Головна"
-# url = "/"
-# weight = -1
-
-# [[menu.main]]
-# name = "Ліцензія"
-# url = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.uk"
-# weight = 1000
