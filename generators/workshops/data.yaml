@@ -120,6 +120,9 @@ workshops:
   - slug: nova-drum
     title: Nova Drum
     weight: 2
+    description: |
+      {{< youtube KnXzn2sii6k >}}
+
     tags:
       - tongue-drum-workshops
       - handpan-workshops

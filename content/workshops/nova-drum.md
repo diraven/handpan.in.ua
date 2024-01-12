@@ -3,6 +3,7 @@ title: Nova Drum
 tags: ['tongue-drum-workshops', 'handpan-workshops']
 weight: 2
 ---
+{{< youtube KnXzn2sii6k >}}
 
 - **Розташування:** м. Київ, Україна
 - **Майстер:** Евген Плотицин
