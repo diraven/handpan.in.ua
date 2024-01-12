@@ -137,6 +137,8 @@ workshops:
     title: Omana
     weight: 1
     description: |
+      {{< youtube Xo6mCqv8Qvo >}}
+
       Майстерня добре відома як в Україні, так і за кордоном.
 
       Історично були розташовані в селі Барвінкове. Тому, один з строїв інструментів має назву Barva. Майстерня свого часу зробила багато відкриттів які посприяли розвитку не лише української а і світової гендпан-спільноти.
@@ -157,6 +159,8 @@ workshops:
   - slug: imago
     title: Imago
     description: |
+      {{< youtube SEonheaRDBY >}}
+
       Майстерня працює з 2013 року, спочатку була розташована в Алчевську, але після початку збройної агресії Росії була вимушена переїхати до Шостки. До 2016 року виробляли пелюсткові барабани. Зараз – повністю зосереджені на виробництві лінійки гендпанів від міні гендпанів тревел-розміру до багатонотних "мутантів".
     tags:
       - handpan-workshops
@@ -171,6 +175,8 @@ workshops:
   - slug: atom
     title: Atom
     description: |
+      {{< youtube soluRmo1R4o >}}
+
       Інструменти в асортименті майстерні як правило повнорозмірного формату – як стандартні 8-9 нотні так і складні в низьких тональностях та з великою кількістю нот. Тревел-моделі (міні) відсутні.
     tags:
       - handpan-workshops
@@ -179,11 +185,13 @@ workshops:
     links:
       - https://facebook.com/AtomHandpan
       - https://facebook.com/yevgen.luchentsov
-      - https://youtube.com/@lu4ik12028
+      - https://youtube.com/@AtomHandpan
 
   - slug: ge-om-music-store
     title: Ge Om Music Store / Your Pan
     description: |
+      {{< youtube 1Pp1yv5XjPg >}}
+
       В асортименті майстерні є як маленькі дитячі гендпани на 35 см так і великі повноцінні моделі.
     tags:
       - handpan-workshops
@@ -196,6 +204,8 @@ workshops:
   - slug: gubarev-drum
     title: Guda Drum / Gubarev Drum
     description: |
+      {{< youtube qnAWSPRJmtA >}}
+
       Під замовлення в гендпан можна вбудувати п'єзодатчики які дозволяють підключити інструмент до системи посилення звуку.
     tags:
       - handpan-workshops
@@ -213,6 +223,8 @@ workshops:
   - slug: veles-sound-sculpture
     title: Veles Sound Sculpture
     description: |
+      {{< youtube kWCJwXsJwtk >}}
+
       Великий вибір металів, різні тональності, різноманітні моделі, як тревел-формату 40 см так і великі багатонотні інструменти.
     tags:
       - handpan-workshops
