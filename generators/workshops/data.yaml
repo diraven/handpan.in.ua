@@ -3,6 +3,7 @@ workshops:
     title: Пента
     tags:
       - tongue-drum-workshops
+    location: м. Київ, Україна
     links:
       - https://www.instagram.com/penta_tongue
 
@@ -120,7 +121,6 @@ workshops:
     title: Nova Drum
     weight: 1
     promo_video_youtube_id: KnXzn2sii6k
-
     tags:
       - tongue-drum-workshops
       - handpan-workshops
@@ -197,7 +197,7 @@ workshops:
       В асортименті майстерні є як маленькі дитячі гендпани на 35 см так і великі повноцінні моделі.
     tags:
       - handpan-workshops
-    location: АР Крим, Україна
+    location: м. Дніпро, Україна
     links:
       - https://facebook.com/GenOmMusicStore
       - https://instagram.com/yourpan_
@@ -205,7 +205,7 @@ workshops:
 
   - slug: gubarev-drum
     title: Guda Drum / Gubarev Drum
-    promo_video_youtube_id: qnAWSPRJmtA
+    promo_video_youtube_id: YYdWHyDW-4k
     description: |
       Під замовлення в гендпан можна вбудувати п'єзодатчики які дозволяють підключити інструмент до системи посилення звуку.
     tags:
