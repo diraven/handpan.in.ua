@@ -1,7 +1,7 @@
 ---
 title: Puzz Drum
 tags: ['tongue-drum-workshops']
-weight: 1000
+weight: 914
 ---
 
 - **Розташування:** м. Одеса, Україна

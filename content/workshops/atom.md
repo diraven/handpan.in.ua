@@ -1,7 +1,7 @@
 ---
 title: Atom
 tags: ['handpan-workshops']
-weight: 1000
+weight: 986
 ---
 {{< youtube soluRmo1R4o >}}
 

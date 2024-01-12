@@ -1,7 +1,7 @@
 ---
 title: Інопланетна майстерня
 tags: ['tongue-drum-workshops']
-weight: 1000
+weight: 969
 ---
 
 - **Розташування:** м. Київ, Україна

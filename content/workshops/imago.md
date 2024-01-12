@@ -1,15 +1,14 @@
 ---
 title: Imago
 tags: ['handpan-workshops']
-weight: 1000
+weight: 90
 ---
-{{< youtube SEonheaRDBY >}}
+{{< youtube ssataMntbB0 >}}
 
 Майстерня працює з 2013 року, спочатку була розташована в Алчевську, але після початку збройної агресії Росії була вимушена переїхати до Шостки. До 2016 року виробляли пелюсткові барабани. Зараз – повністю зосереджені на виробництві лінійки гендпанів від міні гендпанів тревел-розміру до багатонотних "мутантів".
 
 - **Розташування:** м. Шостка, Україна
 - **Майстер:** Максим Миронюк
-- https://facebook.com/hang.panmi.imago
 - https://instagram.com/hang_panmi
 - https://youtube.com/@hang_panmi
-- https://youtube.com/@tongadrum
+- https://facebook.com/hang.panmi.imago

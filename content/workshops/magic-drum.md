@@ -1,7 +1,7 @@
 ---
 title: Magic Drum
 tags: ['tongue-drum-workshops']
-weight: 1000
+weight: 988
 ---
 
 - **Розташування:** м. Нікополь, Україна

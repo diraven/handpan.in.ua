@@ -1,5 +1,6 @@
 import pathlib
 import yaml
+import random
 
 WORKING_DIRECTORY = pathlib.Path(__file__).parent.absolute()
 WORKSHOPS_PATH = (WORKING_DIRECTORY.parent.parent / "content" / "workshops").absolute()
@@ -19,7 +20,7 @@ with open(WORKING_DIRECTORY / "data.yaml", "r") as yaml_file:
                 f"""---
 title: {w["title"]}
 tags: {w.get("tags", [])}
-weight: {w.get("weight", 1000)}
+weight: {random.randint(1, 100) if "weight" in w else random.randint(900, 999)}
 ---
 {w.get("description", "")}
 - **Розташування:** {w.get("location", DEFAULT_VALUE)}

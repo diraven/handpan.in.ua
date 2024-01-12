@@ -1,7 +1,7 @@
 ---
 title: Vimana Takkar
 tags: ['tongue-drum-workshops']
-weight: 1000
+weight: 903
 ---
 
 - **Розташування:** м. Київ, Україна

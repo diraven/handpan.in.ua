@@ -1,7 +1,7 @@
 ---
 title: Пента
 tags: ['tongue-drum-workshops']
-weight: 1000
+weight: 949
 ---
 
 - **Розташування:** -

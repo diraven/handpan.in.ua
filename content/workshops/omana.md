@@ -1,7 +1,7 @@
 ---
 title: Omana
 tags: ['handpan-workshops']
-weight: 1
+weight: 2
 ---
 {{< youtube Xo6mCqv8Qvo >}}
 

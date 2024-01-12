@@ -1,7 +1,7 @@
 ---
 title: Містерія Звуку
 tags: ['tongue-drum-workshops']
-weight: 1000
+weight: 990
 ---
 
 - **Розташування:** м. Київ, Україна

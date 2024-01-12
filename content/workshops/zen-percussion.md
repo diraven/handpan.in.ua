@@ -1,7 +1,7 @@
 ---
 title: Zen Percussion / Guda Drum / Orbis drum
 tags: ['tongue-drum-workshops']
-weight: 1000
+weight: 947
 ---
 
 - **Розташування:** м. Харків, Україна

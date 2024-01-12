@@ -119,7 +119,7 @@ workshops:
 
   - slug: nova-drum
     title: Nova Drum
-    weight: 2
+    weight: 1
     description: |
       {{< youtube KnXzn2sii6k >}}
 
@@ -158,8 +158,9 @@ workshops:
 
   - slug: imago
     title: Imago
+    weight: 1
     description: |
-      {{< youtube SEonheaRDBY >}}
+      {{< youtube ssataMntbB0 >}}
 
       Майстерня працює з 2013 року, спочатку була розташована в Алчевську, але після початку збройної агресії Росії була вимушена переїхати до Шостки. До 2016 року виробляли пелюсткові барабани. Зараз – повністю зосереджені на виробництві лінійки гендпанів від міні гендпанів тревел-розміру до багатонотних "мутантів".
     tags:
@@ -167,10 +168,9 @@ workshops:
     location: м. Шостка, Україна
     craftsman_name: Максим Миронюк
     links:
-      - https://facebook.com/hang.panmi.imago
       - https://instagram.com/hang_panmi
       - https://youtube.com/@hang_panmi
-      - https://youtube.com/@tongadrum
+      - https://facebook.com/hang.panmi.imago
 
   - slug: atom
     title: Atom
@@ -239,7 +239,7 @@ workshops:
 
   - slug: it-joy-instrument
     title: It.Joy Instrument
-    weight: 3
+    weight: 1
     description: |
       {{< figure src="./logo.jpg" class="workshop-logo" alt="logo">}}
 

@@ -1,7 +1,7 @@
 ---
 title: Guru Drum
 tags: ['tongue-drum-workshops']
-weight: 1000
+weight: 914
 ---
 
 - **Розташування:** м. Київ, Україна
