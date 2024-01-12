@@ -1,8 +1,9 @@
 ---
 title: Zen Percussion / Guda Drum / Orbis drum
 tags: ['tongue-drum-workshops']
-weight: 947
+weight: 900
 ---
+
 
 - **Розташування:** м. Харків, Україна
 - **Майстер:** Максим Плахтін
@@ -11,3 +12,5 @@ weight: 947
 - https://guda-drum.com/
 - https://instagram.com/orbisdrum
 - https://facebook.com/groups/GUDAtonguepan/
+
+

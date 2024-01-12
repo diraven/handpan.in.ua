@@ -1,11 +1,9 @@
 ---
 title: Veles Sound Sculpture
 tags: ['handpan-workshops', 'tongue-drum-workshops']
-weight: 974
+weight: 921
 ---
 {{< youtube kWCJwXsJwtk >}}
-
-Великий вибір металів, різні тональності, різноманітні моделі, як тревел-формату 40 см так і великі багатонотні інструменти.
 
 - **Розташування:** м. Житомир, Україна
 - **Майстер:** Велеслав Постернак
@@ -13,3 +11,6 @@ weight: 974
 - https://facebook.com/VelesSoundSculpture
 - https://instagram.com/veles_sound_sculptures
 - https://youtube.com/@velessoundsculpture8802
+
+Великий вибір металів, різні тональності, різноманітні моделі, як тревел-формату 40 см так і великі багатонотні інструменти.
+

@@ -1,11 +1,9 @@
 ---
 title: Guda Drum / Gubarev Drum
 tags: ['handpan-workshops', 'tongue-drum-workshops']
-weight: 992
+weight: 953
 ---
 {{< youtube qnAWSPRJmtA >}}
-
-Під замовлення в гендпан можна вбудувати п'єзодатчики які дозволяють підключити інструмент до системи посилення звуку.
 
 - **Розташування:** м. Світловодськ, Україна
 - **Майстер:** Губарев Дмитро
@@ -15,3 +13,6 @@ weight: 992
 - https://gudadrum.com/
 - https://instagram.com/guda_drum_official
 - https://youtube.com/@GUDADRUM
+
+Під замовлення в гендпан можна вбудувати п'єзодатчики які дозволяють підключити інструмент до системи посилення звуку.
+

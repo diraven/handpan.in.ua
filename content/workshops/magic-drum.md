@@ -1,8 +1,9 @@
 ---
 title: Magic Drum
 tags: ['tongue-drum-workshops']
-weight: 988
+weight: 952
 ---
+
 
 - **Розташування:** м. Нікополь, Україна
 - **Майстер:** Дмитро Кузьменко
@@ -10,3 +11,5 @@ weight: 988
 - https://facebook.com/profile.php?id=100063177521382
 - https://instagram.com/magicdrum_ua
 - https://youtube.com/@user-nn3gb4mz1f
+
+

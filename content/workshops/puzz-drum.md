@@ -1,8 +1,9 @@
 ---
 title: Puzz Drum
 tags: ['tongue-drum-workshops']
-weight: 914
+weight: 979
 ---
+
 
 - **Розташування:** м. Одеса, Україна
 - **Майстер:** Юрій Пузік
@@ -11,3 +12,5 @@ weight: 914
 - https://facebook.com/PuzzDrums
 - https://instagram.com/puzz_drums
 - https://youtube.com/@puzzdrums2192
+
+

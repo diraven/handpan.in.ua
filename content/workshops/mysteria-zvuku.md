@@ -1,8 +1,9 @@
 ---
 title: Містерія Звуку
 tags: ['tongue-drum-workshops']
-weight: 990
+weight: 984
 ---
+
 
 - **Розташування:** м. Київ, Україна
 - **Майстер:** Володимир Артушенко
@@ -11,3 +12,5 @@ weight: 990
 - https://instagram.com/mysteria.zvuku
 - https://mysteria-zvuku.com.ua/
 - https://youtube.com/@mysterysound8869
+
+

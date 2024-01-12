@@ -1,8 +1,9 @@
 ---
 title: Інопланетна майстерня
 tags: ['tongue-drum-workshops']
-weight: 969
+weight: 975
 ---
+
 
 - **Розташування:** м. Київ, Україна
 - **Майстер:** Антон Стечкін
@@ -11,3 +12,5 @@ weight: 969
 - https://happy-drum.com/
 - https://instagram.com/i.masterskaya
 - https://youtube.com/@extraterrestrialworkshop.1689
+
+

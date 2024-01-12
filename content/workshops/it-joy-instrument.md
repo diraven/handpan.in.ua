@@ -3,6 +3,13 @@ title: It.Joy Instrument
 tags: ['handpan-workshops']
 weight: 10
 ---
+
+
+- **Розташування:** м. Братислава, Словаччина
+- **Майстер:** Аркадій Моссад
+- itjoyinst@gmail.com
+- https://www.instagram.com/arkadiimossad?igsh=eWdyNWl6ZHN4bDN1&utm_source=qr
+
 {{< figure src="./logo.jpg" class="workshop-logo" alt="logo">}}
 
 Майстерня почала формуватися ще до війни в місті Харькові. Після початку російскої агресії була перенесена до Братислави Словаччина.
@@ -11,7 +18,3 @@ weight: 10
 
 Хочу висловити велику подяку Mandakini Alfonso (майстерня Pandakini) та  братам Роману і Антону Рева ([майстерня Омана]({{<ref "workshops/omana">}})) в допомозі з формуванням майстерні і мене особисто як майстра.
 
-- **Розташування:** м. Братислава, Словаччина
-- **Майстер:** Аркадій Моссад
-- itjoyinst@gmail.com
-- https://www.instagram.com/arkadiimossad?igsh=eWdyNWl6ZHN4bDN1&utm_source=qr
