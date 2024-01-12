@@ -80,6 +80,8 @@ workshops:
   - slug: shana
     title: Шана / Guda Drum
     weight: 1
+    description: |
+      {{< youtube LoPcflNnb0A >}}
     tags:
       - tongue-drum-workshops
     location: м. Харків, Україна
@@ -224,6 +226,8 @@ workshops:
     title: It.Joy Instrument
     weight: 3
     description: |
+      {{< figure src="./logo.jpg" class="workshop-logo" alt="logo">}}
+
       Майстерня почала формуватися ще до війни в місті Харькові. Після початку російскої агресії була перенесена до Братислави Словаччина.
 
       Майстерня виробляє гендпани в багатьох строях стандартного розміру 53 см з нержавіючої сталі "Ember", AISI 430 і азатованої сталі. Є можливість робити інші розміри інструментів під замовлення.

@@ -3,6 +3,7 @@ title: Шана / Guda Drum
 tags: ['tongue-drum-workshops']
 weight: 1
 ---
+{{< youtube LoPcflNnb0A >}}
 
 - **Розташування:** м. Харків, Україна
 - **Майстер:** Ложкін Олексій
