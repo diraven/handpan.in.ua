@@ -14,7 +14,7 @@ with open(WORKING_DIRECTORY / "data.yaml", "r") as yaml_file:
     data = yaml.load(yaml_file, Loader=yaml.SafeLoader)
     for w in data["workshops"]:
         with open(WORKSHOPS_PATH / f"{w['slug']}.md", "w") as file:
-            links = "\n".join([f"- {l}" for l in w.get("links", [])])
+            links = "\n".join([f"- {link}" for link in w.get("links", [])])
             file.write(
                 f"""---
 title: {w["title"]}
