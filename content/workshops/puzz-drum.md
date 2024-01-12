@@ -1,7 +1,7 @@
 ---
 title: Puzz Drum
 tags: ['tongue-drum-workshops']
-weight: 979
+weight: 965
 ---
 
 

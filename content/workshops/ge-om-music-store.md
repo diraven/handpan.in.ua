@@ -1,11 +1,11 @@
 ---
 title: Ge Om Music Store / Your Pan
 tags: ['handpan-workshops']
-weight: 902
+weight: 954
 ---
 {{< youtube 1Pp1yv5XjPg >}}
 
-- **Розташування:** АР Крим, Україна
+- **Розташування:** м. Дніпро, Україна
 - **Майстер:** -
 - https://facebook.com/GenOmMusicStore
 - https://instagram.com/yourpan_

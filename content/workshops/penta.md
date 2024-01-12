@@ -1,11 +1,11 @@
 ---
 title: Пента
 tags: ['tongue-drum-workshops']
-weight: 912
+weight: 947
 ---
 
 
-- **Розташування:** -
+- **Розташування:** м. Київ, Україна
 - **Майстер:** -
 - https://www.instagram.com/penta_tongue
 

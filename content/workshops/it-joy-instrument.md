@@ -1,7 +1,7 @@
 ---
 title: It.Joy Instrument
 tags: ['handpan-workshops']
-weight: 10
+weight: 53
 ---
 
 

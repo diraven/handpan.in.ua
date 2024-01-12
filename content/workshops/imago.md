@@ -1,7 +1,7 @@
 ---
 title: Imago
 tags: ['handpan-workshops']
-weight: 24
+weight: 10
 ---
 {{< youtube ssataMntbB0 >}}
 

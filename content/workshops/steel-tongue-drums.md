@@ -1,7 +1,7 @@
 ---
 title: Майстерня "Глюкофони"
 tags: ['tongue-drum-workshops']
-weight: 963
+weight: 940
 ---
 
 

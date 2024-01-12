@@ -1,7 +1,7 @@
 ---
 title: Інопланетна майстерня
 tags: ['tongue-drum-workshops']
-weight: 975
+weight: 976
 ---
 
 

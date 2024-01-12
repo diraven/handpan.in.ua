@@ -1,7 +1,7 @@
 ---
 title: Veles Sound Sculpture
 tags: ['handpan-workshops', 'tongue-drum-workshops']
-weight: 921
+weight: 994
 ---
 {{< youtube kWCJwXsJwtk >}}
 
