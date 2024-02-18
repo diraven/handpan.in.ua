@@ -1,7 +1,8 @@
 ---
 title: Vimana Takkar
+
 tags: ['tongue-drum-workshops']
-weight: 973
+weight: 922
 ---
 
 
@@ -11,5 +12,4 @@ weight: 973
 - https://facebook.com/VimanaTakkar
 - https://instagram.com/hornishevsky
 - https://youtube.com/@vimanatakkar
-
 

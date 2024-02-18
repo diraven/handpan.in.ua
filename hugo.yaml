@@ -11,6 +11,7 @@ publishDir: "public"
 params:
   DateFormat: "02 January 2006"
   defaultTheme: "dark"
+  ShowShareButtons: true
 
 menu:
   main:

@@ -1,7 +1,8 @@
 ---
 title: Veles Sound Sculpture
+
 tags: ['handpan-workshops', 'tongue-drum-workshops']
-weight: 994
+weight: 935
 ---
 {{< youtube kWCJwXsJwtk >}}
 
@@ -13,4 +14,3 @@ weight: 994
 - https://youtube.com/@velessoundsculpture8802
 
 Великий вибір металів, різні тональності, різноманітні моделі, як тревел-формату 40 см так і великі багатонотні інструменти.
-

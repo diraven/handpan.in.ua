@@ -1,7 +1,8 @@
 ---
 title: Guda Drum / Gubarev Drum
+
 tags: ['handpan-workshops', 'tongue-drum-workshops']
-weight: 919
+weight: 908
 ---
 {{< youtube YYdWHyDW-4k >}}
 
@@ -15,4 +16,3 @@ weight: 919
 - https://youtube.com/@GUDADRUM
 
 Під замовлення в гендпан можна вбудувати п'єзодатчики які дозволяють підключити інструмент до системи посилення звуку.
-

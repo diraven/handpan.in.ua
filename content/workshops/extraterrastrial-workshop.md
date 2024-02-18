@@ -1,7 +1,8 @@
 ---
 title: Інопланетна майстерня
+
 tags: ['tongue-drum-workshops']
-weight: 976
+weight: 924
 ---
 
 
@@ -12,5 +13,4 @@ weight: 976
 - https://happy-drum.com/
 - https://instagram.com/i.masterskaya
 - https://youtube.com/@extraterrestrialworkshop.1689
-
 

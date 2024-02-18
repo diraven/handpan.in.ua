@@ -1,7 +1,8 @@
 ---
 title: Майстерня "Глюкофони"
+
 tags: ['tongue-drum-workshops']
-weight: 940
+weight: 999
 ---
 
 
@@ -9,5 +10,4 @@ weight: 940
 - **Майстер:** Анатолій Іванов
 - https://facebook.com/groups/544255582431269/
 - https://facebook.com/profile.php?id=100039896807761
-
 

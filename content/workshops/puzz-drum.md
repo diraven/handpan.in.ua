@@ -1,7 +1,8 @@
 ---
 title: Puzz Drum
+
 tags: ['tongue-drum-workshops']
-weight: 965
+weight: 930
 ---
 
 
@@ -12,5 +13,4 @@ weight: 965
 - https://facebook.com/PuzzDrums
 - https://instagram.com/puzz_drums
 - https://youtube.com/@puzzdrums2192
-
 

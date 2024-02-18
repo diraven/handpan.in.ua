@@ -13,21 +13,31 @@ for file in WORKSHOPS_PATH.glob("*.md"):
 
 with open(WORKING_DIRECTORY / "data.yaml", "r") as yaml_file:
     data = yaml.load(yaml_file, Loader=yaml.SafeLoader)
-    for w in data["workshops"]:
-        with open(WORKSHOPS_PATH / f"{w['slug']}.md", "w") as file:
-            links = "\n".join([f"- {link}" for link in w.get("links", [])])
+    for workshop in data["workshops"]:
+        with open(WORKSHOPS_PATH / f"{workshop['slug']}.md", "w") as file:
+            links = "\n".join([f"- {link}" for link in workshop.get("links", [])])
+            cover = (
+                f"""cover:
+  image: "{workshop["cover"]}"
+  alt: "{workshop["title"]}"
+  caption: "{workshop["title"]}"
+  relative: true
+  """.strip()
+                if "cover" in workshop
+                else ""
+            )
             file.write(
                 f"""---
-title: {w["title"]}
-tags: {w.get("tags", [])}
-weight: {random.randint(1, 100) if "weight" in w else random.randint(900, 999)}
+title: {workshop["title"]}
+{cover}
+tags: {workshop.get("tags", [])}
+weight: {random.randint(1, 100) if "weight" in workshop else random.randint(900, 999)}
 ---
-{"{{< youtube "+w.get("promo_video_youtube_id")+" >}}" if w.get("promo_video_youtube_id") else ""}
+{"{{< youtube "+workshop.get("promo_video_youtube_id")+" >}}" if workshop.get("promo_video_youtube_id") else ""}
 
-- **Розташування:** {w.get("location", DEFAULT_VALUE)}
-- **Майстер:** {w.get("craftsman_name", DEFAULT_VALUE)}
+- **Розташування:** {workshop.get("location", DEFAULT_VALUE)}
+- **Майстер:** {workshop.get("craftsman_name", DEFAULT_VALUE)}
 {links}
 
-{w.get("description", "")}
-"""
+{workshop.get("description", "")}"""
             )

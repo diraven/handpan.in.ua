@@ -1,7 +1,8 @@
 ---
 title: Guru Drum
+
 tags: ['tongue-drum-workshops']
-weight: 981
+weight: 989
 ---
 
 
@@ -10,5 +11,4 @@ weight: 981
 - https://facebook.com/gurudrumgroup
 - https://instagram.com/gurudrumgroup
 - https://youtube.com/@gurudrum
-
 

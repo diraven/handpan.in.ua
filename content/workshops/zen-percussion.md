@@ -1,7 +1,8 @@
 ---
 title: Zen Percussion / Guda Drum / Orbis drum
+
 tags: ['tongue-drum-workshops']
-weight: 983
+weight: 923
 ---
 
 
@@ -12,5 +13,4 @@ weight: 983
 - https://guda-drum.com/
 - https://instagram.com/orbisdrum
 - https://facebook.com/groups/GUDAtonguepan/
-
 

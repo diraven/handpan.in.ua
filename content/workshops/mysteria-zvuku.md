@@ -1,7 +1,8 @@
 ---
 title: Містерія Звуку
+
 tags: ['tongue-drum-workshops']
-weight: 971
+weight: 916
 ---
 
 
@@ -12,5 +13,4 @@ weight: 971
 - https://instagram.com/mysteria.zvuku
 - https://mysteria-zvuku.com.ua/
 - https://youtube.com/@mysterysound8869
-
 

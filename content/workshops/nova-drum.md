@@ -1,7 +1,8 @@
 ---
 title: Nova Drum
+
 tags: ['tongue-drum-workshops', 'handpan-workshops']
-weight: 27
+weight: 42
 ---
 {{< youtube KnXzn2sii6k >}}
 
@@ -10,5 +11,4 @@ weight: 27
 - https://instagram.com/johnny_vargonaut
 - https://novadrum.com/
 - https://youtube.com/@novadrum280
-
 
