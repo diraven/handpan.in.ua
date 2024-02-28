@@ -2,7 +2,7 @@
 title: Пента
 
 tags: ['tongue-drum-workshops']
-weight: 982
+weight: 943
 ---
 
 

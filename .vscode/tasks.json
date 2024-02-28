@@ -13,7 +13,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "python3 -m generators.workshops && rm -rf public && /snap/bin/hugo",
+            "command": "python3 -m generators.workshops && python3 -m generators.teachers && rm -rf public && /snap/bin/hugo",
             "problemMatcher": []
         }
     ]

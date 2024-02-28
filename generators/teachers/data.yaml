@@ -1,0 +1,35 @@
+teachers:
+  - slug: illya_filipenko
+    weight: 1
+    title: Ілля Філіпенко
+    tags:
+      - teachers
+    location: м. Харків, Україна
+    promo_video_youtube_id: l21MiRXprR4
+    links:
+      - https://www.instagram.com/drum_space_kh
+      - https://www.instagram.com/penta_tongue
+      - https://www.facebook.com/drumspace/
+
+  - slug: anatoliy_hernadenko
+    weight: 1
+    title: Анатолій Гернаденко
+    tags:
+      - teachers
+    promo_video_youtube_id: v08Jzjfc5tk
+    links:
+      - https://www.facebook.com/profile.php?id=100000948445592
+      - https://www.instagram.com/snowhang/
+      - https://www.youtube.com/@SnowHang
+
+  - slug: oleksandr_streletz
+    weight: 1
+    title: Олександр Стрелец
+    tags:
+      - teachers
+    promo_video_youtube_id: O-1VFqxpW4U
+    links:
+      - https://www.facebook.com/profile.php?id=100091958255826
+      - https://www.youtube.com/channel/UCmwiUlTHUumcJjMnvVaV4_g
+      - https://www.instagram.com/alex_streletz
+      - https://www.instagram.com/handpan_lessons_streletz

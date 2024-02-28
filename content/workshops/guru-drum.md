@@ -2,7 +2,7 @@
 title: Guru Drum
 
 tags: ['tongue-drum-workshops']
-weight: 989
+weight: 912
 ---
 
 

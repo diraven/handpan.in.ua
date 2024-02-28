@@ -2,7 +2,7 @@
 title: Magic Drum
 
 tags: ['tongue-drum-workshops']
-weight: 938
+weight: 960
 ---
 
 

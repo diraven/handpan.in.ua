@@ -2,7 +2,7 @@
 title: Nova Drum
 
 tags: ['tongue-drum-workshops', 'handpan-workshops']
-weight: 42
+weight: 32
 ---
 {{< youtube KnXzn2sii6k >}}
 
