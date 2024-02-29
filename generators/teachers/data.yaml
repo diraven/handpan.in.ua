@@ -8,8 +8,8 @@ teachers:
     promo_video_youtube_id: l21MiRXprR4
     links:
       - https://www.instagram.com/drum_space_kh
-      - https://www.instagram.com/penta_tongue
       - https://www.facebook.com/drumspace/
+      - https://drumspace.com.ua
 
   - slug: anatoliy_hernadenko
     weight: 1
@@ -23,7 +23,6 @@ teachers:
       - https://www.youtube.com/@SnowHang
 
   - slug: oleksandr_streletz
-    weight: 1
     title: Олександр Стрелец
     tags:
       - teachers
@@ -33,3 +32,34 @@ teachers:
       - https://www.youtube.com/channel/UCmwiUlTHUumcJjMnvVaV4_g
       - https://www.instagram.com/alex_streletz
       - https://www.instagram.com/handpan_lessons_streletz
+
+  - slug: anton_strilets
+    weight: 1
+    title: Антон Стрілець
+    tags:
+      - teachers
+    promo_video_youtube_id: IItosCEkQnI
+    links:
+      - https://www.youtube.com/@AntonStrilets
+      - https://www.instagram.com/anton_strilets_/
+      - https://open.spotify.com/artist/3MC9rJCuYa2el20TKMBk6a
+      - https://www.facebook.com/mucky.pup.52
+
+  - slug: lyudmila_urban
+    title: Людмила Урбан
+    tags:
+      - teachers
+    promo_video_youtube_id: 4poCdMZfPqQ
+    links:
+      - https://www.instagram.com/urban_liudmila
+      - https://www.facebook.com/profile.php?id=100012163276633
+
+  - slug: denys_balyhin
+    title: Денис Балихін
+    tags:
+      - teachers
+    promo_video_youtube_id: Y-ADuX2gnOI
+    links:
+      - https://www.facebook.com/denysbalykhin
+      - https://www.instagram.com/denys_balykhin
+      - https://youtube.com/@denysbalykhin

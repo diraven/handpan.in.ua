@@ -2,7 +2,7 @@
 title: Vimana Takkar
 
 tags: ['tongue-drum-workshops']
-weight: 970
+weight: 962
 ---
 
 

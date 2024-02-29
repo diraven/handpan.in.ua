@@ -2,7 +2,7 @@
 title: Містерія Звуку
 
 tags: ['tongue-drum-workshops']
-weight: 972
+weight: 936
 ---
 
 

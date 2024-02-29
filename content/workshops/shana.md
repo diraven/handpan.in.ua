@@ -2,7 +2,7 @@
 title: Шана / Guda Drum
 
 tags: ['tongue-drum-workshops']
-weight: 64
+weight: 69
 ---
 {{< youtube LoPcflNnb0A >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Олександр Стрелец
 tags: ['teachers']
-weight: 7
+weight: 976
 ---
 {{< youtube O-1VFqxpW4U >}}
 

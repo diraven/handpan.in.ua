@@ -2,7 +2,7 @@
 title: Ge Om Music Store / Your Pan
 
 tags: ['handpan-workshops']
-weight: 934
+weight: 980
 ---
 {{< youtube 1Pp1yv5XjPg >}}
 

@@ -2,7 +2,7 @@
 title: Guda Drum / Gubarev Drum
 
 tags: ['handpan-workshops', 'tongue-drum-workshops']
-weight: 947
+weight: 909
 ---
 {{< youtube YYdWHyDW-4k >}}
 
