@@ -2,11 +2,10 @@
 title: Imago
 
 tags: ['handpan-workshops', 'shostka']
-weight: 64
+weight: 89
 ---
 {{< youtube ssataMntbB0 >}}
 
-- **Розташування:** -
 - **Майстер:** Максим Миронюк
 - https://instagram.com/hang_panmi
 - https://youtube.com/@hang_panmi

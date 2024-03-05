@@ -1,11 +1,10 @@
 ---
 title: Олександр Стрелец
 tags: ['teachers', 'kyiv']
-weight: 978
+weight: 988
 ---
 {{< youtube O-1VFqxpW4U >}}
 
-- **Розташування:** -
 - https://www.facebook.com/profile.php?id=100091958255826
 - https://www.youtube.com/channel/UCmwiUlTHUumcJjMnvVaV4_g
 - https://www.instagram.com/alex_streletz

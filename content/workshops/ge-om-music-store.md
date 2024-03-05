@@ -2,11 +2,10 @@
 title: Ge Om Music Store / Your Pan
 
 tags: ['handpan-workshops', 'dnipro']
-weight: 933
+weight: 987
 ---
 {{< youtube 1Pp1yv5XjPg >}}
 
-- **Розташування:** -
 - **Майстер:** -
 - https://facebook.com/GenOmMusicStore
 - https://instagram.com/yourpan_

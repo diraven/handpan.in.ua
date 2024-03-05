@@ -2,11 +2,10 @@
 title: Puzz Drum
 
 tags: ['tongue-drum-workshops', 'odesa']
-weight: 981
+weight: 998
 ---
 
 
-- **Розташування:** -
 - **Майстер:** Юрій Пузік
 - https://puzz-drums.com/
 - https://facebook.com/profile.php?id=100069942784217

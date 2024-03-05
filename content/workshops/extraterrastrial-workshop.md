@@ -2,11 +2,10 @@
 title: Інопланетна майстерня
 
 tags: ['tongue-drum-workshops', 'kyiv']
-weight: 947
+weight: 942
 ---
 
 
-- **Розташування:** -
 - **Майстер:** Антон Стечкін
 - https://facebook.com/antony.stechkin
 - https://facebook.com/i.masterskaya.kyiv

@@ -2,11 +2,10 @@
 title: Magic Drum
 
 tags: ['tongue-drum-workshops', 'nikopol']
-weight: 917
+weight: 988
 ---
 
 
-- **Розташування:** -
 - **Майстер:** Дмитро Кузьменко
 - https://facebook.com/dima.kuzmenko.jimaku
 - https://facebook.com/profile.php?id=100063177521382

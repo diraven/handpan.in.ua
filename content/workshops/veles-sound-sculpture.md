@@ -2,11 +2,10 @@
 title: Veles Sound Sculpture
 
 tags: ['handpan-workshops', 'tongue-drum-workshops', 'zhytomyr']
-weight: 915
+weight: 993
 ---
 {{< youtube kWCJwXsJwtk >}}
 
-- **Розташування:** -
 - **Майстер:** Велеслав Постернак
 - https://facebook.com/vasilyposternak
 - https://facebook.com/VelesSoundSculpture

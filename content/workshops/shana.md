@@ -2,11 +2,10 @@
 title: Шана / Guda Drum
 
 tags: ['tongue-drum-workshops', 'kharkiv']
-weight: 12
+weight: 83
 ---
 {{< youtube LoPcflNnb0A >}}
 
-- **Розташування:** -
 - **Майстер:** Ложкін Олексій
 - https://facebook.com/profile.php?id=100006623864086
 - https://facebook.com/Ukrainiandrum

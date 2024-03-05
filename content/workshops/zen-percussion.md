@@ -2,11 +2,10 @@
 title: Zen Percussion / Guda Drum / Orbis drum
 
 tags: ['tongue-drum-workshops', 'kharkiv']
-weight: 927
+weight: 959
 ---
 
 
-- **Розташування:** -
 - **Майстер:** Максим Плахтін
 - https://zen-percussion.com/
 - https://facebook.com/max.plakhtin

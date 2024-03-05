@@ -2,11 +2,10 @@
 title: Guru Drum
 
 tags: ['tongue-drum-workshops', 'kyiv']
-weight: 925
+weight: 981
 ---
 
 
-- **Розташування:** -
 - **Майстер:** -
 - https://facebook.com/gurudrumgroup
 - https://instagram.com/gurudrumgroup

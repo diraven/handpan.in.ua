@@ -2,11 +2,10 @@
 title: Atom
 
 tags: ['handpan-workshops', 'crimea']
-weight: 922
+weight: 947
 ---
 {{< youtube soluRmo1R4o >}}
 
-- **Розташування:** -
 - **Майстер:** Евген Лученцов
 - https://facebook.com/AtomHandpan
 - https://facebook.com/yevgen.luchentsov

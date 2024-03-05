@@ -2,11 +2,10 @@
 title: It.Joy Instrument
 
 tags: ['handpan-workshops', 'bratyslava']
-weight: 72
+weight: 82
 ---
 
 
-- **Розташування:** -
 - **Майстер:** Аркадій Моссад
 - itjoyinst@gmail.com
 - https://www.instagram.com/arkadiimossad?igsh=eWdyNWl6ZHN4bDN1&utm_source=qr

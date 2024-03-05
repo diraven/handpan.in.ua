@@ -2,11 +2,10 @@
 title: Містерія Звуку
 
 tags: ['tongue-drum-workshops', 'kyiv']
-weight: 999
+weight: 967
 ---
 
 
-- **Розташування:** -
 - **Майстер:** Володимир Артушенко
 - https://facebook.com/Mysteria.Zvuku
 - https://facebook.com/volodymyr.artushenko
