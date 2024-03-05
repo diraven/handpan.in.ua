@@ -1,12 +1,12 @@
 ---
 title: Zen Percussion / Guda Drum / Orbis drum
 
-tags: ['tongue-drum-workshops']
-weight: 903
+tags: ['tongue-drum-workshops', 'kharkiv']
+weight: 927
 ---
 
 
-- **Розташування:** м. Харків, Україна
+- **Розташування:** -
 - **Майстер:** Максим Плахтін
 - https://zen-percussion.com/
 - https://facebook.com/max.plakhtin

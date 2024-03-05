@@ -1,12 +1,12 @@
 ---
 title: Ge Om Music Store / Your Pan
 
-tags: ['handpan-workshops']
-weight: 980
+tags: ['handpan-workshops', 'dnipro']
+weight: 933
 ---
 {{< youtube 1Pp1yv5XjPg >}}
 
-- **Розташування:** м. Дніпро, Україна
+- **Розташування:** -
 - **Майстер:** -
 - https://facebook.com/GenOmMusicStore
 - https://instagram.com/yourpan_

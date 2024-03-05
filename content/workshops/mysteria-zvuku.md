@@ -1,12 +1,12 @@
 ---
 title: Містерія Звуку
 
-tags: ['tongue-drum-workshops']
-weight: 936
+tags: ['tongue-drum-workshops', 'kyiv']
+weight: 999
 ---
 
 
-- **Розташування:** м. Київ, Україна
+- **Розташування:** -
 - **Майстер:** Володимир Артушенко
 - https://facebook.com/Mysteria.Zvuku
 - https://facebook.com/volodymyr.artushenko

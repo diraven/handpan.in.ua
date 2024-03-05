@@ -1,12 +1,12 @@
 ---
 title: Nova Drum
 
-tags: ['tongue-drum-workshops', 'handpan-workshops']
-weight: 86
+tags: ['tongue-drum-workshops', 'handpan-workshops', 'kyiv']
+weight: 33
 ---
 {{< youtube KnXzn2sii6k >}}
 
-- **Розташування:** м. Київ, Україна
+- **Розташування:** -
 - **Майстер:** Евген Плотицин
 - https://instagram.com/johnny_vargonaut
 - https://novadrum.com/

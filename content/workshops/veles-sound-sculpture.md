@@ -1,12 +1,12 @@
 ---
 title: Veles Sound Sculpture
 
-tags: ['handpan-workshops', 'tongue-drum-workshops']
-weight: 994
+tags: ['handpan-workshops', 'tongue-drum-workshops', 'zhytomyr']
+weight: 915
 ---
 {{< youtube kWCJwXsJwtk >}}
 
-- **Розташування:** м. Житомир, Україна
+- **Розташування:** -
 - **Майстер:** Велеслав Постернак
 - https://facebook.com/vasilyposternak
 - https://facebook.com/VelesSoundSculpture

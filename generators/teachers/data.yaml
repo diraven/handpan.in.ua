@@ -4,7 +4,7 @@ teachers:
     title: Ілля Філіпенко
     tags:
       - teachers
-    location: м. Харків, Україна
+      - kharkiv
     promo_video_youtube_id: l21MiRXprR4
     links:
       - https://www.instagram.com/drum_space_kh
@@ -26,6 +26,7 @@ teachers:
     title: Олександр Стрелец
     tags:
       - teachers
+      - kyiv
     promo_video_youtube_id: O-1VFqxpW4U
     links:
       - https://www.facebook.com/profile.php?id=100091958255826
@@ -38,6 +39,7 @@ teachers:
     title: Антон Стрілець
     tags:
       - teachers
+      - cherkasy
     promo_video_youtube_id: IItosCEkQnI
     links:
       - https://www.youtube.com/@AntonStrilets
@@ -63,3 +65,69 @@ teachers:
       - https://www.facebook.com/denysbalykhin
       - https://www.instagram.com/denys_balykhin
       - https://youtube.com/@denysbalykhin
+
+  - slug: arthur_pilipchuk
+    weight: 1
+    title: Артур Піліпчук
+    tags:
+      - teachers
+      - zhytomyr
+    promo_video_youtube_id: 7kTGNEoSIfE
+    links:
+      - https://www.facebook.com/artur.pylypchuk
+      - https://www.instagram.com/arc_thur
+
+  - slug: volodymyr_sharov
+    title: Володимир Шаров
+    tags:
+      - teachers
+    promo_video_youtube_id: AxOoMoLIAwA
+    links:
+      - https://www.instagram.com/soul_tool_hang_school
+      - https://tiktok.com/@soul_tool_hang_school_
+
+  - slug: garik_sheremet
+    weight: 1
+    title: Гарік Шеремет
+    tags:
+      - teachers
+      - kyiv
+    promo_video_youtube_id: N3_Zpk-GfpU
+    links:
+      - https://www.instagram.com/ray_m_school
+      - https://www.facebook.com/garik.sheremet
+      - https://youtube.com/@Garik2501198
+
+  - slug: andriy_nesteruk
+    weight: 1
+    description: "NoA - Школа хендпану. Cмачний чай входить у заняття😉."
+    title: Андрій Нестерук
+    tags:
+      - teachers
+      - dnipro
+    links:
+      - https://www.instagram.com/andreynestor
+      - https://www.tiktok.com/@noa_handpan
+      - https://www.instagram.com/luncha_dnepr
+
+  - slug: timur_belkin
+    title: Тімур Белкін
+    tags:
+      - teachers
+      - odesa
+    promo_video_youtube_id: PL-HEe_feU8
+    links:
+      - https://www.instagram.com/timurbelkin/
+      - https://www.facebook.com/belkintimur
+      - https://www.youtube.com/@timurbelkin2969
+
+  - slug: vyacheslav_aldokimov
+    title: В'ячеслав Алдокімов
+    tags:
+      - teachers
+      - kharkiv
+    promo_video_youtube_id: BIi_7KHNYa4
+    links:
+      - https://www.instagram.com/harugvan
+      - https://www.tiktok.com/@harugvan
+      - https://youtube.com/@harugvan236

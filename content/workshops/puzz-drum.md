@@ -1,12 +1,12 @@
 ---
 title: Puzz Drum
 
-tags: ['tongue-drum-workshops']
-weight: 948
+tags: ['tongue-drum-workshops', 'odesa']
+weight: 981
 ---
 
 
-- **Розташування:** м. Одеса, Україна
+- **Розташування:** -
 - **Майстер:** Юрій Пузік
 - https://puzz-drums.com/
 - https://facebook.com/profile.php?id=100069942784217

@@ -1,12 +1,12 @@
 ---
 title: Guda Drum / Gubarev Drum
 
-tags: ['handpan-workshops', 'tongue-drum-workshops']
-weight: 909
+tags: ['handpan-workshops', 'tongue-drum-workshops', 'svitlovodsk']
+weight: 904
 ---
 {{< youtube YYdWHyDW-4k >}}
 
-- **Розташування:** м. Світловодськ, Україна
+- **Розташування:** -
 - **Майстер:** Губарев Дмитро
 - https://facebook.com/gubarev.dmitrii
 - https://facebook.com/guda.ua

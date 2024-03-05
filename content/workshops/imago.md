@@ -1,12 +1,12 @@
 ---
 title: Imago
 
-tags: ['handpan-workshops']
-weight: 50
+tags: ['handpan-workshops', 'shostka']
+weight: 64
 ---
 {{< youtube ssataMntbB0 >}}
 
-- **Розташування:** м. Шостка, Україна
+- **Розташування:** -
 - **Майстер:** Максим Миронюк
 - https://instagram.com/hang_panmi
 - https://youtube.com/@hang_panmi

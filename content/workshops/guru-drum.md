@@ -1,12 +1,12 @@
 ---
 title: Guru Drum
 
-tags: ['tongue-drum-workshops']
-weight: 974
+tags: ['tongue-drum-workshops', 'kyiv']
+weight: 925
 ---
 
 
-- **Розташування:** м. Київ, Україна
+- **Розташування:** -
 - **Майстер:** -
 - https://facebook.com/gurudrumgroup
 - https://instagram.com/gurudrumgroup

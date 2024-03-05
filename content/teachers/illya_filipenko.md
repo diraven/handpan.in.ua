@@ -1,11 +1,11 @@
 ---
 title: Ілля Філіпенко
-tags: ['teachers']
-weight: 66
+tags: ['teachers', 'kharkiv']
+weight: 65
 ---
 {{< youtube l21MiRXprR4 >}}
 
-- **Розташування:** м. Харків, Україна
+- **Розташування:** -
 - https://www.instagram.com/drum_space_kh
 - https://www.facebook.com/drumspace/
 - https://drumspace.com.ua

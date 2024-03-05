@@ -1,12 +1,12 @@
 ---
 title: Vimana Takkar
 
-tags: ['tongue-drum-workshops']
+tags: ['tongue-drum-workshops', 'kyiv']
 weight: 962
 ---
 
 
-- **Розташування:** м. Київ, Україна
+- **Розташування:** -
 - **Майстер:** Горнішевський Евген
 - https://facebook.com/profile.php?id=100011467414116
 - https://facebook.com/VimanaTakkar

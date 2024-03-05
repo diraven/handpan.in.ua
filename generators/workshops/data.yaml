@@ -3,7 +3,7 @@ workshops:
     title: Пента
     tags:
       - tongue-drum-workshops
-    location: м. Київ, Україна
+      - kyiv
     links:
       - https://www.instagram.com/penta_tongue
 
@@ -11,7 +11,7 @@ workshops:
     title: Майстерня "Глюкофони"
     tags:
       - tongue-drum-workshops
-    location: м. Нікополь, Україна
+      - nikopol
     craftsman_name: Анатолій Іванов
     links:
       - https://facebook.com/groups/544255582431269/
@@ -21,7 +21,7 @@ workshops:
     title: Vimana Takkar
     tags:
       - tongue-drum-workshops
-    location: м. Київ, Україна
+      - kyiv
     craftsman_name: Горнішевський Евген
     links:
       - https://facebook.com/profile.php?id=100011467414116
@@ -33,7 +33,7 @@ workshops:
     title: Інопланетна майстерня
     tags:
       - tongue-drum-workshops
-    location: м. Київ, Україна
+      - kyiv
     craftsman_name: Антон Стечкін
     links:
       - https://facebook.com/antony.stechkin
@@ -46,7 +46,7 @@ workshops:
     title: Puzz Drum
     tags:
       - tongue-drum-workshops
-    location: м. Одеса, Україна
+      - odesa
     craftsman_name: Юрій Пузік
     links:
       - https://puzz-drums.com/
@@ -59,7 +59,7 @@ workshops:
     title: Guru Drum
     tags:
       - tongue-drum-workshops
-    location: м. Київ, Україна
+      - kyiv
     links:
       - https://facebook.com/gurudrumgroup
       - https://instagram.com/gurudrumgroup
@@ -69,7 +69,7 @@ workshops:
     title: Zen Percussion / Guda Drum / Orbis drum
     tags:
       - tongue-drum-workshops
-    location: м. Харків, Україна
+      - kharkiv
     craftsman_name: Максим Плахтін
     links:
       - https://zen-percussion.com/
@@ -84,7 +84,7 @@ workshops:
     promo_video_youtube_id: LoPcflNnb0A
     tags:
       - tongue-drum-workshops
-    location: м. Харків, Україна
+      - kharkiv
     craftsman_name: Ложкін Олексій
     links:
       - https://facebook.com/profile.php?id=100006623864086
@@ -96,7 +96,7 @@ workshops:
     title: Містерія Звуку
     tags:
       - tongue-drum-workshops
-    location: м. Київ, Україна
+      - kyiv
     craftsman_name: Володимир Артушенко
     links:
       - https://facebook.com/Mysteria.Zvuku
@@ -109,7 +109,7 @@ workshops:
     title: Magic Drum
     tags:
       - tongue-drum-workshops
-    location: м. Нікополь, Україна
+      - nikopol
     craftsman_name: Дмитро Кузьменко
     links:
       - https://facebook.com/dima.kuzmenko.jimaku
@@ -124,7 +124,7 @@ workshops:
     tags:
       - tongue-drum-workshops
       - handpan-workshops
-    location: м. Київ, Україна
+      - kyiv
     craftsman_name: Евген Плотицин
     links:
       - https://instagram.com/johnny_vargonaut
@@ -144,7 +144,7 @@ workshops:
       Брати виробляють як компактні інструменти, так і багатонотні "мутанти" та басові інструменти низьких тональностей. Основним профілем діяльності є виготовлення складних і професійних гендпанів високого рівня.
     tags:
       - handpan-workshops
-    location: м. Харків, Україна
+      - kharkiv
     craftsman_name: Антон Рева, Роман Рева
     links:
       - https://facebook.com/groups/653228274781474/
@@ -169,7 +169,7 @@ workshops:
       - Ø65🛸ГІГАНТ (10 нот)
     tags:
       - handpan-workshops
-    location: м. Шостка, Україна
+      - shostka
     craftsman_name: Максим Миронюк
     links:
       - https://instagram.com/hang_panmi
@@ -183,7 +183,7 @@ workshops:
       Інструменти в асортименті майстерні як правило повнорозмірного формату – як стандартні 8-9 нотні так і складні в низьких тональностях та з великою кількістю нот. Тревел-моделі (міні) відсутні.
     tags:
       - handpan-workshops
-    location: АР Крим, Україна
+      - crimea
     craftsman_name: Евген Лученцов
     links:
       - https://facebook.com/AtomHandpan
@@ -197,7 +197,7 @@ workshops:
       В асортименті майстерні є як маленькі дитячі гендпани на 35 см так і великі повноцінні моделі.
     tags:
       - handpan-workshops
-    location: м. Дніпро, Україна
+      - dnipro
     links:
       - https://facebook.com/GenOmMusicStore
       - https://instagram.com/yourpan_
@@ -211,7 +211,7 @@ workshops:
     tags:
       - handpan-workshops
       - tongue-drum-workshops
-    location: м. Світловодськ, Україна
+      - svitlovodsk
     craftsman_name: Губарев Дмитро
     links:
       - https://facebook.com/gubarev.dmitrii
@@ -229,7 +229,7 @@ workshops:
     tags:
       - handpan-workshops
       - tongue-drum-workshops
-    location: м. Житомир, Україна
+      - zhytomyr
     craftsman_name: Велеслав Постернак
     links:
       - https://facebook.com/vasilyposternak
@@ -250,7 +250,7 @@ workshops:
       Хочу висловити велику подяку Mandakini Alfonso (майстерня Pandakini) та  братам Роману і Антону Рева ([майстерня Омана]({{<ref "workshops/omana">}})) в допомозі з формуванням майстерні і мене особисто як майстра.
     tags:
       - handpan-workshops
-    location: м. Братислава, Словаччина
+      - bratyslava
     craftsman_name: Аркадій Моссад
     links:
       - itjoyinst@gmail.com

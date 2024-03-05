@@ -19,3 +19,5 @@ menu:
       pageRef: "/tags/handpan-workshops/"
     - name: "Пелюсткові Барабани"
       pageRef: "/tags/tongue-drum-workshops/"
+    - name: "Мітки"
+      pageRef: "/tags/"

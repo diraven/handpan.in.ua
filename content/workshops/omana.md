@@ -1,12 +1,12 @@
 ---
 title: Omana
 
-tags: ['handpan-workshops']
-weight: 57
+tags: ['handpan-workshops', 'kharkiv']
+weight: 21
 ---
 {{< youtube Xo6mCqv8Qvo >}}
 
-- **Розташування:** м. Харків, Україна
+- **Розташування:** -
 - **Майстер:** Антон Рева, Роман Рева
 - https://facebook.com/groups/653228274781474/
 - https://facebook.com/jestokiylu
