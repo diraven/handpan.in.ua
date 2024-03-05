@@ -1,7 +1,7 @@
 teachers:
-  - slug: illya_filipenko
+  - slug: illya_filippenko
     weight: 1
-    title: Ілля Філіпенко
+    title: Ілля Філіппенко
     tags:
       - teachers
       - kharkiv
