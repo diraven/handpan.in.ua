@@ -35,7 +35,6 @@ weight: {random.randint(1, 100) if "weight" in workshop else random.randint(900,
 ---
 {"{{< youtube "+workshop.get("promo_video_youtube_id")+" >}}" if workshop.get("promo_video_youtube_id") else ""}
 
-- **Розташування:** {workshop.get("location", DEFAULT_VALUE)}
 - **Майстер:** {workshop.get("craftsman_name", DEFAULT_VALUE)}
 {links}
 

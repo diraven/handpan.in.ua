@@ -24,7 +24,6 @@ weight: {random.randint(1, 100) if "weight" in teacher else random.randint(900, 
 ---
 {"{{< youtube "+teacher.get("promo_video_youtube_id")+" >}}" if teacher.get("promo_video_youtube_id") else ""}
 
-- **Розташування:** {teacher.get("location", DEFAULT_VALUE)}
 {links}
 
 {teacher.get("description", "")}"""
