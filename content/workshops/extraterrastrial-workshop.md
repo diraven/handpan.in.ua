@@ -2,7 +2,7 @@
 title: Інопланетна майстерня
 
 tags: ['tongue-drum-workshops', 'kyiv']
-weight: 942
+weight: 992
 ---
 
 

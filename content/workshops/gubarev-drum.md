@@ -2,7 +2,7 @@
 title: Guda Drum / Gubarev Drum
 
 tags: ['handpan-workshops', 'tongue-drum-workshops', 'svitlovodsk']
-weight: 908
+weight: 967
 ---
 {{< youtube YYdWHyDW-4k >}}
 

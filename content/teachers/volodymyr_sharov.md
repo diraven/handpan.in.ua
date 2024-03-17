@@ -1,7 +1,7 @@
 ---
 title: Володимир Шаров
 tags: ['teachers']
-weight: 941
+weight: 931
 ---
 {{< youtube AxOoMoLIAwA >}}
 

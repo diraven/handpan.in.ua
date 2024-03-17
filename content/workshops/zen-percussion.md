@@ -2,7 +2,7 @@
 title: Zen Percussion / Guda Drum / Orbis drum
 
 tags: ['tongue-drum-workshops', 'kharkiv']
-weight: 959
+weight: 906
 ---
 
 

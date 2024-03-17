@@ -2,7 +2,7 @@
 title: Veles Sound Sculpture
 
 tags: ['handpan-workshops', 'tongue-drum-workshops', 'zhytomyr']
-weight: 993
+weight: 921
 ---
 {{< youtube kWCJwXsJwtk >}}
 

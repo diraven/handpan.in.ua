@@ -131,3 +131,23 @@ teachers:
       - https://www.instagram.com/harugvan
       - https://www.tiktok.com/@harugvan
       - https://youtube.com/@harugvan236
+
+  - slug: vanya_puh
+    title: Ваня Пух
+    tags:
+      - teachers
+    promo_video_youtube_id: SlfdhtBCU7A
+    links:
+      - https://vaniapooh.com
+      - https://www.facebook.com/vanyapooh
+      - https://www.youtube.com/@DjembeManReal
+
+  - slug: artemiy_starod
+    title: Артемій Старод
+    tags:
+      - teachers
+    promo_video_youtube_id: GItUIKyZ4bw
+    links:
+      - https://www.instagram.com/artemiy_terra
+      - https://www.facebook.com/deach.deacker
+      - https://www.youtube.com/@Soulunmusic
