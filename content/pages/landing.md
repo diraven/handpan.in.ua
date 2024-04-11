@@ -12,6 +12,6 @@ weight: 1
 
 Представництва Української Гендпан Спільноти в інтернеті:
 
-- [Сайт](/uhc/)
+- [Сайт](/)
 - [Telegram](https://t.me/+SJWgNwlVPVmc8j7s)
 - [Facebook](https://www.facebook.com/groups/964688007353101)
