@@ -2,7 +2,7 @@
 title: Пента
 
 tags: ['tongue-drum-workshops', 'kyiv']
-weight: 904
+weight: 978
 ---
 
 

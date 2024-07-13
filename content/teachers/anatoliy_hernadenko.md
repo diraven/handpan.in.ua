@@ -1,7 +1,7 @@
 ---
 title: Анатолій Гернаденко
 tags: ['teachers']
-weight: 53
+weight: 8
 ---
 {{< youtube v08Jzjfc5tk >}}
 

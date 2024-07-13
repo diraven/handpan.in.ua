@@ -1,7 +1,7 @@
 ---
 title: Ілля Філіппенко
 tags: ['teachers', 'kharkiv']
-weight: 47
+weight: 88
 ---
 {{< youtube l21MiRXprR4 >}}
 

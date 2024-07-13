@@ -1,7 +1,7 @@
 ---
 title: Артур Піліпчук
 tags: ['teachers', 'zhytomyr']
-weight: 27
+weight: 10
 ---
 {{< youtube 7kTGNEoSIfE >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Олександр Стрелец
 tags: ['teachers', 'kyiv']
-weight: 943
+weight: 937
 ---
 {{< youtube O-1VFqxpW4U >}}
 
