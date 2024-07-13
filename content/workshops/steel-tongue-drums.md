@@ -2,7 +2,7 @@
 title: Майстерня "Глюкофони"
 
 tags: ['tongue-drum-workshops', 'nikopol']
-weight: 904
+weight: 956
 ---
 
 

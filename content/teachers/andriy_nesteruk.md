@@ -1,7 +1,7 @@
 ---
 title: Андрій Нестерук
 tags: ['teachers', 'dnipro']
-weight: 74
+weight: 77
 ---
 
 

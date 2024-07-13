@@ -1,7 +1,7 @@
 ---
 title: В'ячеслав Алдокімов
 tags: ['teachers', 'kharkiv']
-weight: 914
+weight: 974
 ---
 {{< youtube BIi_7KHNYa4 >}}
 

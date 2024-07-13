@@ -1,7 +1,7 @@
 ---
 title: Гарік Шеремет
 tags: ['teachers', 'kyiv']
-weight: 72
+weight: 81
 ---
 {{< youtube N3_Zpk-GfpU >}}
 

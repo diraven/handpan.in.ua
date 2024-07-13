@@ -1,7 +1,7 @@
 ---
 title: Антон Стрілець
 tags: ['teachers', 'cherkasy']
-weight: 95
+weight: 59
 ---
 {{< youtube IItosCEkQnI >}}
 

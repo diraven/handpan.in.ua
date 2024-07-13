@@ -2,7 +2,7 @@
 title: Vimana Takkar
 
 tags: ['tongue-drum-workshops', 'kyiv']
-weight: 988
+weight: 923
 ---
 
 

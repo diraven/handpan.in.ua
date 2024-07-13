@@ -2,7 +2,7 @@
 title: It.Joy Instrument
 
 tags: ['handpan-workshops', 'bratyslava']
-weight: 43
+weight: 72
 ---
 
 

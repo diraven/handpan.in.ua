@@ -1,7 +1,7 @@
 ---
 title: Ваня Пух
 tags: ['teachers']
-weight: 975
+weight: 932
 ---
 {{< youtube SlfdhtBCU7A >}}
 
