@@ -2,7 +2,7 @@
 title: Nova Drum
 
 tags: ['tongue-drum-workshops', 'handpan-workshops', 'kyiv']
-weight: 55
+weight: 87
 ---
 {{< youtube KnXzn2sii6k >}}
 

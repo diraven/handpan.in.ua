@@ -1,7 +1,7 @@
 ---
 title: Артемій Старод
 tags: ['teachers']
-weight: 938
+weight: 930
 ---
 {{< youtube GItUIKyZ4bw >}}
 

@@ -82,11 +82,14 @@ workshops:
     title: Шана / Guda Drum
     weight: 1
     promo_video_youtube_id: LoPcflNnb0A
+    description: |
+      "Шана" - це родинна крафтова майстерня пелюсткових барабанів. Основний напрямок нашої роботи - створення ексклюзивних інструментів за індивідуальними побажаннями клієнтів.
     tags:
       - tongue-drum-workshops
       - kharkiv
     craftsman_name: Ложкін Олексій
     links:
+      - https://shanadrum.com/
       - https://facebook.com/profile.php?id=100006623864086
       - https://facebook.com/Ukrainiandrum
       - https://instagram.com/shana_ukrainian_tongue_drum

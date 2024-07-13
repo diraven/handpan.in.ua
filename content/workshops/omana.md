@@ -2,7 +2,7 @@
 title: Omana
 
 tags: ['handpan-workshops', 'kharkiv']
-weight: 25
+weight: 14
 ---
 {{< youtube Xo6mCqv8Qvo >}}
 

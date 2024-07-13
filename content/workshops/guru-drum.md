@@ -2,7 +2,7 @@
 title: Guru Drum
 
 tags: ['tongue-drum-workshops', 'kyiv']
-weight: 972
+weight: 958
 ---
 
 

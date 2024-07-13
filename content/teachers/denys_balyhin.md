@@ -1,7 +1,7 @@
 ---
 title: Денис Балихін
 tags: ['teachers']
-weight: 908
+weight: 905
 ---
 {{< youtube Y-ADuX2gnOI >}}
 

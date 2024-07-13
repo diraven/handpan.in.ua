@@ -2,7 +2,7 @@
 title: Містерія Звуку
 
 tags: ['tongue-drum-workshops', 'kyiv']
-weight: 937
+weight: 965
 ---
 
 

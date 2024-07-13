@@ -2,7 +2,7 @@
 title: Magic Drum
 
 tags: ['tongue-drum-workshops', 'nikopol']
-weight: 936
+weight: 901
 ---
 
 
