@@ -2,7 +2,7 @@
 title: Imago
 
 tags: ['handpan-workshops', 'shostka']
-weight: 79
+weight: 92
 ---
 {{< youtube ssataMntbB0 >}}
 

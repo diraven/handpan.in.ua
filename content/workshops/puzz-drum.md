@@ -2,7 +2,7 @@
 title: Puzz Drum
 
 tags: ['tongue-drum-workshops', 'odesa']
-weight: 928
+weight: 901
 ---
 
 

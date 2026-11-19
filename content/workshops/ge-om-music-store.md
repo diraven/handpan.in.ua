@@ -2,7 +2,7 @@
 title: Ge Om Music Store / Your Pan
 
 tags: ['handpan-workshops', 'dnipro']
-weight: 922
+weight: 946
 ---
 {{< youtube 1Pp1yv5XjPg >}}
 
