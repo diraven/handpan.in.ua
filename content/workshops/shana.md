@@ -2,7 +2,7 @@
 title: Шана / Guda Drum
 
 tags: ['tongue-drum-workshops', 'kharkiv']
-weight: 74
+weight: 87
 ---
 {{< youtube LoPcflNnb0A >}}
 

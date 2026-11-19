@@ -2,14 +2,14 @@
 title: It.Joy Instrument
 
 tags: ['handpan-workshops', 'lviv']
-weight: 28
+weight: 27
 ---
 
 
 - **Майстер:** Аркадій Моссад
 - https://www.it-joy.com/uk
 - itjoyinst@gmail.com
-- https://www.instagram.com/arkadiimossad?igsh=eWdyNWl6ZHN4bDN1&utm_source=qr
+- https://www.instagram.com/arkadiimossad
 
 {{< figure src="./logo.jpg" class="workshop-logo" alt="logo">}}
 
