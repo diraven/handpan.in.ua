@@ -12,6 +12,9 @@ params:
   DateFormat: "02 January 2006"
   defaultTheme: "dark"
   ShowShareButtons: true
+  # Non-empty so PaperMod skips its fallback to site.Social (removed in Hugo 0.124).
+  social:
+    twitter: ""
 
 menu:
   main:
